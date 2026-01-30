@@ -115,9 +115,15 @@ select  * from partidos;
 ```
 
 
+
+
 ### Capturas
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9ca7c410-5531-4d17-85bd-d52398a38480" />
 
 
 <img width="1362" height="584" alt="image" src="https://github.com/user-attachments/assets/b39bfb12-9f80-4aa2-b81f-d4ac85bd054b" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d3b7c5d9-0342-4095-95df-6cd7a877827e" />
+
